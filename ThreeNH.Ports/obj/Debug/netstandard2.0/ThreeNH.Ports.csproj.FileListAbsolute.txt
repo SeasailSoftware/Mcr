@@ -1,0 +1,40 @@
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.csproj.AssemblyReference.cache
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.AssemblyInfoInputs.cache
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.AssemblyInfo.cs
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.csproj.CoreCompileInputs.cache
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Ports\bin\Debug\netstandard2.0\ThreeNH.Ports.deps.json
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Ports\bin\Debug\netstandard2.0\ThreeNH.Ports.dll
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Ports\bin\Debug\netstandard2.0\ThreeNH.Ports.pdb
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.dll
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.pdb
+D:\Tencent Clound Platform\CS820N\ThreeNH.Ports\bin\Debug\netstandard2.0\ThreeNH.Ports.deps.json
+D:\Tencent Clound Platform\CS820N\ThreeNH.Ports\bin\Debug\netstandard2.0\ThreeNH.Ports.dll
+D:\Tencent Clound Platform\CS820N\ThreeNH.Ports\bin\Debug\netstandard2.0\ThreeNH.Ports.pdb
+D:\Tencent Clound Platform\CS820N\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.csproj.AssemblyReference.cache
+D:\Tencent Clound Platform\CS820N\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tencent Clound Platform\CS820N\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.AssemblyInfoInputs.cache
+D:\Tencent Clound Platform\CS820N\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.AssemblyInfo.cs
+D:\Tencent Clound Platform\CS820N\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.csproj.CoreCompileInputs.cache
+D:\Tencent Clound Platform\CS820N\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.dll
+D:\Tencent Clound Platform\CS820N\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.pdb
+D:\TNH Git\CS820N\ThreeNH.Ports\bin\Debug\netstandard2.0\ThreeNH.Ports.deps.json
+D:\TNH Git\CS820N\ThreeNH.Ports\bin\Debug\netstandard2.0\ThreeNH.Ports.dll
+D:\TNH Git\CS820N\ThreeNH.Ports\bin\Debug\netstandard2.0\ThreeNH.Ports.pdb
+D:\TNH Git\CS820N\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.csproj.AssemblyReference.cache
+D:\TNH Git\CS820N\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNH Git\CS820N\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.AssemblyInfoInputs.cache
+D:\TNH Git\CS820N\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.AssemblyInfo.cs
+D:\TNH Git\CS820N\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.csproj.CoreCompileInputs.cache
+D:\TNH Git\CS820N\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.dll
+D:\TNH Git\CS820N\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.pdb
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Ports\bin\Debug\netstandard2.0\ThreeNH.Ports.deps.json
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Ports\bin\Debug\netstandard2.0\ThreeNH.Ports.dll
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Ports\bin\Debug\netstandard2.0\ThreeNH.Ports.pdb
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.csproj.AssemblyReference.cache
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.AssemblyInfoInputs.cache
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.AssemblyInfo.cs
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.csproj.CoreCompileInputs.cache
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.dll
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Ports\obj\Debug\netstandard2.0\ThreeNH.Ports.pdb

@@ -1,0 +1,40 @@
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Color\bin\Release\netstandard2.0\ThreeNH.Color.deps.json
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Color\bin\Release\netstandard2.0\ThreeNH.Color.dll
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Color\bin\Release\netstandard2.0\ThreeNH.Color.pdb
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.csproj.AssemblyReference.cache
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.AssemblyInfoInputs.cache
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.AssemblyInfo.cs
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.csproj.CoreCompileInputs.cache
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.dll
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.pdb
+D:\Tencent Clound Platform\CS820N\ThreeNH.Color\bin\Release\netstandard2.0\ThreeNH.Color.deps.json
+D:\Tencent Clound Platform\CS820N\ThreeNH.Color\bin\Release\netstandard2.0\ThreeNH.Color.dll
+D:\Tencent Clound Platform\CS820N\ThreeNH.Color\bin\Release\netstandard2.0\ThreeNH.Color.pdb
+D:\Tencent Clound Platform\CS820N\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.csproj.AssemblyReference.cache
+D:\Tencent Clound Platform\CS820N\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tencent Clound Platform\CS820N\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.AssemblyInfoInputs.cache
+D:\Tencent Clound Platform\CS820N\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.AssemblyInfo.cs
+D:\Tencent Clound Platform\CS820N\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.csproj.CoreCompileInputs.cache
+D:\Tencent Clound Platform\CS820N\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.dll
+D:\Tencent Clound Platform\CS820N\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.pdb
+D:\TNH Git\CS820N\ThreeNH.Color\bin\Release\netstandard2.0\ThreeNH.Color.deps.json
+D:\TNH Git\CS820N\ThreeNH.Color\bin\Release\netstandard2.0\ThreeNH.Color.dll
+D:\TNH Git\CS820N\ThreeNH.Color\bin\Release\netstandard2.0\ThreeNH.Color.pdb
+D:\TNH Git\CS820N\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.csproj.AssemblyReference.cache
+D:\TNH Git\CS820N\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNH Git\CS820N\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.AssemblyInfoInputs.cache
+D:\TNH Git\CS820N\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.AssemblyInfo.cs
+D:\TNH Git\CS820N\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.csproj.CoreCompileInputs.cache
+D:\TNH Git\CS820N\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.dll
+D:\TNH Git\CS820N\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.pdb
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Color\bin\Release\netstandard2.0\ThreeNH.Color.deps.json
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Color\bin\Release\netstandard2.0\ThreeNH.Color.dll
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Color\bin\Release\netstandard2.0\ThreeNH.Color.pdb
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.csproj.AssemblyReference.cache
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.AssemblyInfoInputs.cache
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.AssemblyInfo.cs
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.csproj.CoreCompileInputs.cache
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.dll
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Color\obj\Release\netstandard2.0\ThreeNH.Color.pdb

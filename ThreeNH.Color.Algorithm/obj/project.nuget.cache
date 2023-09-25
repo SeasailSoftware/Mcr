@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "D3d/nPh7+6LAqFTR8G3n9pUHNBAY4eVeg9LPoS5sPdyyYWI/WitGhiqBqqL1Dj8400T4+lx9XIWOzrYN7YpDzA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Micro ColorReader\\ReagentStripTest\\ThreeNH.Color.Algorithm\\ThreeNH.Color.Algorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

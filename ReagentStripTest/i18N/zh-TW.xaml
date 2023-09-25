@@ -1,0 +1,139 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:s="clr-namespace:System;assembly=mscorlib">
+    <s:String x:Key="s_File">文件(_F)</s:String>
+    <s:String x:Key="s_FileOpen">打開(_O)</s:String>
+    <s:String x:Key="s_Save">保存(_S)</s:String>
+    <s:String x:Key="s_Close">退出(_X)</s:String>
+    <s:String x:Key="s_Name">名稱</s:String>
+    <s:String x:Key="s_Help">幫助(_H)</s:String>
+    <s:String x:Key="s_About">關于(_A)</s:String>
+    <s:String x:Key="s_SheetName">表單名</s:String>
+    <s:String x:Key="s_Accept">確定</s:String>
+    <s:String x:Key="s_Cancel">取消</s:String>
+    <s:String x:Key="s_Unconnected">未连接</s:String>
+    <s:String x:Key="s_ConnectedTo">已连接到</s:String>
+    <s:String x:Key="s_Connect">连接</s:String>
+    <s:String x:Key="s_Disconnect">断开</s:String>
+    <s:String x:Key="s_ConnectionWay">连接方式</s:String>
+    <s:String x:Key="s_ConnectByUsb">Usb连接</s:String>
+    <s:String x:Key="s_ConnectByBluetooth">蓝牙连接</s:String>
+    <s:String x:Key="s_Threshold">阈值</s:String>
+    <s:String x:Key="s_Lower">上限</s:String>
+    <s:String x:Key="s_Upper">下限</s:String>
+    <s:String x:Key="s_SavePath">保存路径</s:String>
+    <s:String x:Key="s_Start">开始</s:String>
+    <s:String x:Key="s_Stop">停止</s:String>
+    <s:String x:Key="s_New">新建</s:String>
+    <s:String x:Key="s_Open">打开</s:String>
+    <s:String x:Key="s_SaveTo">另存为</s:String>
+    <s:String x:Key="s_Exits">退出</s:String>
+    <s:String x:Key="s_Illuminant">光源</s:String>
+    <s:String x:Key="s_SpecifiedWaveLength">指定波长</s:String>
+    <s:String x:Key="s_Observer">观察者</s:String>
+    <s:String x:Key="s_RawDataPath">原始数据路径</s:String>
+    <s:String x:Key="s_ReportDataPath">报告数据路径</s:String>
+    <s:String x:Key="InstrumentModel">仪器型号</s:String>
+    <s:String x:Key="CommunicationDeviceName">通讯设备</s:String>
+    <s:String x:Key="Optical">光学结构</s:String>
+    <s:String x:Key="SerialNumber">序列号</s:String>
+    <s:String x:Key="SoftwareVersion">软件版本</s:String>
+    <s:String x:Key="HardwareVersion">硬件版本</s:String>
+    <s:String x:Key="WhiteBoardNumber">白板编号</s:String>
+    <s:String x:Key="s_Index">序号</s:String>
+    <s:String x:Key="s_DateTime">时间</s:String>
+    <s:String x:Key="s_PseudoColor">仿真色</s:String>
+    <s:String x:Key="CIELab_L">L*</s:String>
+    <s:String x:Key="CIELab_a">a*</s:String>
+    <s:String x:Key="CIELab_b">b*</s:String>
+    <s:String x:Key="s_Rename">重命名</s:String>
+    <s:String x:Key="s_Data">数据(_D)</s:String>
+    <s:String x:Key="s_Delete">删除</s:String>
+    <s:String x:Key="s_ExportToExcel">导出到Excel</s:String>
+    <s:String x:Key="Toolbar_Settings">设置</s:String>
+    <s:String x:Key="s_ExecutedTime">已执行时间</s:String>
+    <s:String x:Key="s_MeasurementDuration">测量持续时间</s:String>
+    <s:String x:Key="s_MeasurementInterval">测量时间间隔</s:String>
+    <s:String x:Key="s_Reflectance">反射率</s:String>
+    <s:String x:Key="s_Sampling">采样</s:String>
+    <s:String x:Key="s_GeneralSettings">一般设置</s:String>
+    <s:String x:Key="s_DataChannel">数据通道</s:String>
+    <s:String x:Key="s_DataChannel1">数据通道1</s:String>
+    <s:String x:Key="s_DataChannel2">数据通道2</s:String>
+    <s:String x:Key="s_DataChannel3">数据通道3</s:String>
+    <s:String x:Key="s_Calibrate">校正</s:String>
+    <s:String x:Key="s_ReflectanceFactor">反射率因子</s:String>
+    <s:String x:Key="s_CalibratedSuccessfully">校正成功!</s:String>
+    <!--  升级功能  -->
+    <s:String x:Key="s_Upgrade">升级</s:String>
+    <s:String x:Key="s_Doing">正在执行……</s:String>
+    <s:String x:Key="s_Refresh">刷新</s:String>
+    <s:String x:Key="s_Firmware">固件</s:String>
+    <s:String x:Key="s_Browse">浏览……</s:String>
+    <s:String x:Key="s_DownloadResource">写入资源</s:String>
+    <s:String x:Key="s_Description">描述</s:String>
+    <s:String x:Key="s_Path">路径</s:String>
+    <s:String x:Key="s_ExecutedDfuProgramFailed$0$">执行DFU程序出错：{0}</s:String>
+    <s:String x:Key="s_Generating$0$From$1$Failed">
+        由“{0}”生成“{1}”失败
+    </s:String>
+    <s:String x:Key="s_GeneratingDfuFileFailedWithExitCode$0$Because$1$">
+        生成DFU文件失败[ExitCode={0}]：{1}
+    </s:String>
+    <s:String x:Key="s_GenerationOf$0$Successful">
+        生成“{0}”成功
+    </s:String>
+    <s:String x:Key="s_AbortUpgrading">中止升级</s:String>
+    <s:String x:Key="s_UpgradingHasBeenAborted">升级已中止</s:String>
+    <s:String x:Key="s_StartingUpgradeProgramFailed">启动升级程序失败</s:String>
+    <s:String x:Key="s_UpgradingFailed$0$">升级失败：{0}</s:String>
+    <s:String x:Key="s_Erasing$0$Percentage">
+        正在擦除，已完成{0}%
+    </s:String>
+    <s:String x:Key="s_Upgrading$0$Percentage">
+        正在升级，已完成{0}%
+    </s:String>
+    <s:String x:Key="s_UpgradeSuccessful">升级成功</s:String>
+    <s:String x:Key="s_UpgradeFailed$0$">升级失败：{0}</s:String>
+    <s:String x:Key="s_BtsFirmwareFileFilter">固件程序(*.dfu;*.hex;*.bin)|*.dfu;*.hex;*.bin</s:String>
+    <s:String x:Key="s_ResourceFileFilter">资源文件(*.bin)|*.bin</s:String>
+    <s:String x:Key="s_Erasing">正在擦除...</s:String>
+    <s:String x:Key="s_DownloadResourceInErasing">下载资源: 正在擦除...</s:String>
+    <s:String x:Key="s_DownloadResourceCompleted">资源下载完成</s:String>
+    <s:String x:Key="s_InWritingResource">正在写入资源文...</s:String>
+
+    <!--  Dialog  -->
+    <s:String x:Key="s_Restore">还原</s:String>
+    <s:String x:Key="s_RestoreToDefault">还原到默认</s:String>
+    <s:String x:Key="s_Clear">清除</s:String>
+    <s:String x:Key="s_ClearAll">清除所有</s:String>
+    <s:String x:Key="s_Yes">是</s:String>
+    <s:String x:Key="s_No">否</s:String>
+    <s:String x:Key="s_Ok">确定</s:String>
+    <s:String x:Key="s_Retry">重试</s:String>
+    <s:String x:Key="s_Skip">跳过</s:String>
+
+
+    <!--  ViewModels  -->
+    <s:String x:Key="ShellViewModel">多角度儀器計量工具</s:String>
+
+    <!--  Instrument  -->
+    <s:String x:Key="s_Instrument">儀器(_I)</s:String>
+
+    <!--  Settings  -->
+    <s:String x:Key="s_Settings">設置(_S)</s:String>
+    <s:String x:Key="s_MetewandsManagement">计量基准管理</s:String>
+    <s:String x:Key="s_AddStandard">添加计量基准</s:String>
+    <s:String x:Key="s_Metewands">所有计量基准</s:String>
+    <s:String x:Key="s_CurrentMetewand">當前计量基准</s:String>
+    <s:String x:Key="s_ColorData">顔色數據</s:String>
+    <s:String x:Key="s_SparkleData">效果色數據</s:String>
+    <s:String x:Key="s_SelectMetewandFile">選擇計量基准文件</s:String>
+    <s:String x:Key="XlsxFileter">Excel 文件（*.xlsx）|*.xlsx</s:String>
+    <s:String x:Key="s_InstrumentModel">儀器型號</s:String>
+
+    <!--  ViewModels  -->
+    <s:String x:Key="SettingsViewModel">设置</s:String>
+    <s:String x:Key="MeasurementViewModel">测量</s:String>
+</ResourceDictionary>

@@ -1,0 +1,40 @@
+D:\Tencent Clound Platform\MSQC\ThreeNH.Communication\bin\Debug\netstandard2.0\ThreeNH.Communication.deps.json
+D:\Tencent Clound Platform\MSQC\ThreeNH.Communication\bin\Debug\netstandard2.0\ThreeNH.Communication.dll
+D:\Tencent Clound Platform\MSQC\ThreeNH.Communication\bin\Debug\netstandard2.0\ThreeNH.Communication.pdb
+D:\Tencent Clound Platform\MSQC\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.csproj.AssemblyReference.cache
+D:\Tencent Clound Platform\MSQC\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tencent Clound Platform\MSQC\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.AssemblyInfoInputs.cache
+D:\Tencent Clound Platform\MSQC\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.AssemblyInfo.cs
+D:\Tencent Clound Platform\MSQC\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.csproj.CoreCompileInputs.cache
+D:\Tencent Clound Platform\MSQC\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.dll
+D:\Tencent Clound Platform\MSQC\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.pdb
+D:\Tencent Clound Platform\Mas\MSQC\ThreeNH.Communication\bin\Debug\netstandard2.0\ThreeNH.Communication.deps.json
+D:\Tencent Clound Platform\Mas\MSQC\ThreeNH.Communication\bin\Debug\netstandard2.0\ThreeNH.Communication.dll
+D:\Tencent Clound Platform\Mas\MSQC\ThreeNH.Communication\bin\Debug\netstandard2.0\ThreeNH.Communication.pdb
+D:\Tencent Clound Platform\Mas\MSQC\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.csproj.AssemblyReference.cache
+D:\Tencent Clound Platform\Mas\MSQC\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tencent Clound Platform\Mas\MSQC\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.AssemblyInfoInputs.cache
+D:\Tencent Clound Platform\Mas\MSQC\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.AssemblyInfo.cs
+D:\Tencent Clound Platform\Mas\MSQC\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.csproj.CoreCompileInputs.cache
+D:\Tencent Clound Platform\Mas\MSQC\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.dll
+D:\Tencent Clound Platform\Mas\MSQC\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.pdb
+D:\Projects\Micro ColorReader\ReagentStripTest\ReagentStripTest\ThreeNH.Communication\bin\Debug\netstandard2.0\ThreeNH.Communication.deps.json
+D:\Projects\Micro ColorReader\ReagentStripTest\ReagentStripTest\ThreeNH.Communication\bin\Debug\netstandard2.0\ThreeNH.Communication.dll
+D:\Projects\Micro ColorReader\ReagentStripTest\ReagentStripTest\ThreeNH.Communication\bin\Debug\netstandard2.0\ThreeNH.Communication.pdb
+D:\Projects\Micro ColorReader\ReagentStripTest\ReagentStripTest\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.csproj.AssemblyReference.cache
+D:\Projects\Micro ColorReader\ReagentStripTest\ReagentStripTest\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Micro ColorReader\ReagentStripTest\ReagentStripTest\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.AssemblyInfoInputs.cache
+D:\Projects\Micro ColorReader\ReagentStripTest\ReagentStripTest\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.AssemblyInfo.cs
+D:\Projects\Micro ColorReader\ReagentStripTest\ReagentStripTest\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.csproj.CoreCompileInputs.cache
+D:\Projects\Micro ColorReader\ReagentStripTest\ReagentStripTest\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.dll
+D:\Projects\Micro ColorReader\ReagentStripTest\ReagentStripTest\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.pdb
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Communication\bin\Debug\netstandard2.0\ThreeNH.Communication.deps.json
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Communication\bin\Debug\netstandard2.0\ThreeNH.Communication.dll
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Communication\bin\Debug\netstandard2.0\ThreeNH.Communication.pdb
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.csproj.AssemblyReference.cache
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.AssemblyInfoInputs.cache
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.AssemblyInfo.cs
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.csproj.CoreCompileInputs.cache
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.dll
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Communication\obj\Debug\netstandard2.0\ThreeNH.Communication.pdb

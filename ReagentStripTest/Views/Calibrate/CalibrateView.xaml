@@ -1,0 +1,25 @@
+﻿<mah:MetroWindow
+    x:Class="ReagentStripTest.Views.Calibrate.CalibrateView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:cal="http://www.caliburnproject.org"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:icons="http://metro.mahapps.com/winfx/xaml/iconpacks"
+    xmlns:local="clr-namespace:ReagentStripTest.Views"
+    xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="{DynamicResource s_Calibrate}"
+    Width="350"
+    Height="300"
+    Icon="{icons:MaterialImage Kind=TapeMeasure,
+                               Brush=White}"
+    ResizeMode="NoResize"
+    ShowCloseButton="False"
+    ShowInTaskbar="False"
+    SizeToContent="Height"
+    WindowStartupLocation="CenterOwner"
+    mc:Ignorable="d">
+    <Grid>
+        <ContentControl cal:View.Model="{Binding ViewModel}" />
+    </Grid>
+</mah:MetroWindow>

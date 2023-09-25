@@ -1,0 +1,20 @@
+﻿MasTools
+
+
+winexe
+C#
+.cs
+D:\Tencent Clound Platform\Mas\MSQC\MasTools\obj\Release\
+MasTools
+none
+false
+TRACE
+D:\Tencent Clound Platform\Mas\MSQC\MasTools\App.xaml
+38-2024567922
+8-1917851805
+831766997094
+158494787528
+i18N\en-US.xaml;i18N\zh-CN.xaml;i18N\zh-TW.xaml;Resources\Converters.xaml;Resources\Style.xaml;Views\Calibrate\BlackCalibrateView.xaml;Views\Calibrate\CalibrateSuccessView.xaml;Views\Calibrate\CalibrateView.xaml;Views\Calibrate\WhiteCalibrateView.xaml;Views\Customization\CustomizationView.xaml;Views\Dialogs\LoadingView.xaml;Views\Dialogs\MessageBoxView.xaml;Views\Dialogs\ProgressDialogView.xaml;Views\HardwareTests\AngleSelectView.xaml;Views\HardwareTests\BCRAKFactorView.xaml;Views\HardwareTests\BuzzerTestView.xaml;Views\HardwareTests\CameraTestView.xaml;Views\HardwareTests\DeviceInfoView.xaml;Views\HardwareTests\HardwareTestView.xaml;Views\HardwareTests\LedTestView.xaml;Views\HardwareTests\ModelEncryptView.xaml;Views\HardwareTests\PrinterTestView.xaml;Views\HardwareTests\RtcTestView.xaml;Views\HardwareTests\SparkleImageView.xaml;Views\HardwareTests\SteeringEngineTestView.xaml;Views\Helps\AboutView.xaml;Views\Instruments\InstrumentInformationView.xaml;Views\LanguageSettingView.xaml;Views\Metrolog\MetrologTooleView.xaml;Views\ProductSetup\GratingCoefficientsView.xaml;Views\ProductSetup\ProductSetupView.xaml;Views\ProductSetup\SelectGratingCoefficientsView.xaml;Views\ProductSetup\SelectWhiteboardDataView.xaml;Views\ProductSetup\WhiteboardParasView.xaml;Views\QualiityControl\QualityControlView.xaml;Views\ShellView.xaml;Views\ThemeSettingView.xaml;Views\Upgrade\UpgradeView.xaml;
+
+False
+

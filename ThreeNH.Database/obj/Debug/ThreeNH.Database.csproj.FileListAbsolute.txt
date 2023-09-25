@@ -1,0 +1,13 @@
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Database\bin\Debug\ThreeNH.Database.dll.config
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Database\bin\Debug\ThreeNH.Database.dll
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Database\bin\Debug\ThreeNH.Database.pdb
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Database\bin\Debug\EntityFramework.dll
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Database\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Database\bin\Debug\SQLite.CodeFirst.dll
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Database\bin\Debug\EntityFramework.xml
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Database\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Database\obj\Debug\ThreeNH.Database.csproj.AssemblyReference.cache
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Database\obj\Debug\ThreeNH.Database.csproj.CoreCompileInputs.cache
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Database\obj\Debug\ThreeNH.Database.csproj.CopyComplete
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Database\obj\Debug\ThreeNH.Database.dll
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Database\obj\Debug\ThreeNH.Database.pdb

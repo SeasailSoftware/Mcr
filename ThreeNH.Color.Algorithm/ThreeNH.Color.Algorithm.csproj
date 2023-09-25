@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\TristimulusWeightingFactorTable_10nm.json" />
+    <None Remove="Resources\TristimulusWeightingFactorTable_5nm.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\TristimulusWeightingFactorTable_10nm.json" />
+    <EmbeddedResource Include="Resources\TristimulusWeightingFactorTable_5nm.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ThreeNH.Color\ThreeNH.Color.csproj" />
+  </ItemGroup>
+
+</Project>

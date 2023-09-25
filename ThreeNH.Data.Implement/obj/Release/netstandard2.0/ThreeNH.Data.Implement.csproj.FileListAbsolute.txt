@@ -1,0 +1,57 @@
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Data.Implement.deps.json
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Data.Implement.dll
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Data.Implement.pdb
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Color.Algorithm.dll
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Color.dll
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Data.dll
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.dll
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Color.Algorithm.pdb
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Color.pdb
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Data.pdb
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.pdb
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Data.Implement\obj\Release\netstandard2.0\ThreeNH.Data.Implement.csproj.AssemblyReference.cache
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Data.Implement\obj\Release\netstandard2.0\ThreeNH.Data.Implement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Data.Implement\obj\Release\netstandard2.0\ThreeNH.Data.Implement.AssemblyInfoInputs.cache
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Data.Implement\obj\Release\netstandard2.0\ThreeNH.Data.Implement.AssemblyInfo.cs
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Data.Implement\obj\Release\netstandard2.0\ThreeNH.Data.Implement.csproj.CoreCompileInputs.cache
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Data.Implement\obj\Release\netstandard2.0\ThreeNH.Data.Implement.csproj.CopyComplete
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Data.Implement\obj\Release\netstandard2.0\ThreeNH.Data.Implement.dll
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH.Data.Implement\obj\Release\netstandard2.0\ThreeNH.Data.Implement.pdb
+D:\Tencent Clound Platform\CS820N\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Data.Implement.deps.json
+D:\Tencent Clound Platform\CS820N\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Data.Implement.dll
+D:\Tencent Clound Platform\CS820N\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Data.Implement.pdb
+D:\Tencent Clound Platform\CS820N\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Color.Algorithm.dll
+D:\Tencent Clound Platform\CS820N\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Color.dll
+D:\Tencent Clound Platform\CS820N\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Data.dll
+D:\Tencent Clound Platform\CS820N\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.dll
+D:\Tencent Clound Platform\CS820N\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Color.Algorithm.pdb
+D:\Tencent Clound Platform\CS820N\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Color.pdb
+D:\Tencent Clound Platform\CS820N\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Data.pdb
+D:\Tencent Clound Platform\CS820N\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.pdb
+D:\Tencent Clound Platform\CS820N\ThreeNH.Data.Implement\obj\Release\netstandard2.0\ThreeNH.Data.Implement.csproj.AssemblyReference.cache
+D:\Tencent Clound Platform\CS820N\ThreeNH.Data.Implement\obj\Release\netstandard2.0\ThreeNH.Data.Implement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tencent Clound Platform\CS820N\ThreeNH.Data.Implement\obj\Release\netstandard2.0\ThreeNH.Data.Implement.AssemblyInfoInputs.cache
+D:\Tencent Clound Platform\CS820N\ThreeNH.Data.Implement\obj\Release\netstandard2.0\ThreeNH.Data.Implement.AssemblyInfo.cs
+D:\Tencent Clound Platform\CS820N\ThreeNH.Data.Implement\obj\Release\netstandard2.0\ThreeNH.Data.Implement.csproj.CoreCompileInputs.cache
+D:\Tencent Clound Platform\CS820N\ThreeNH.Data.Implement\obj\Release\netstandard2.0\ThreeNH.Data.Implement.csproj.CopyComplete
+D:\Tencent Clound Platform\CS820N\ThreeNH.Data.Implement\obj\Release\netstandard2.0\ThreeNH.Data.Implement.dll
+D:\Tencent Clound Platform\CS820N\ThreeNH.Data.Implement\obj\Release\netstandard2.0\ThreeNH.Data.Implement.pdb
+D:\TNH Git\CS820N\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Data.Implement.deps.json
+D:\TNH Git\CS820N\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Data.Implement.dll
+D:\TNH Git\CS820N\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Data.Implement.pdb
+D:\TNH Git\CS820N\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Color.Algorithm.dll
+D:\TNH Git\CS820N\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Color.dll
+D:\TNH Git\CS820N\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Data.dll
+D:\TNH Git\CS820N\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.dll
+D:\TNH Git\CS820N\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Color.Algorithm.pdb
+D:\TNH Git\CS820N\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Color.pdb
+D:\TNH Git\CS820N\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.Data.pdb
+D:\TNH Git\CS820N\ThreeNH.Data.Implement\bin\Release\netstandard2.0\ThreeNH.pdb
+D:\TNH Git\CS820N\ThreeNH.Data.Implement\obj\Release\netstandard2.0\ThreeNH.Data.Implement.csproj.AssemblyReference.cache
+D:\TNH Git\CS820N\ThreeNH.Data.Implement\obj\Release\netstandard2.0\ThreeNH.Data.Implement.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNH Git\CS820N\ThreeNH.Data.Implement\obj\Release\netstandard2.0\ThreeNH.Data.Implement.AssemblyInfoInputs.cache
+D:\TNH Git\CS820N\ThreeNH.Data.Implement\obj\Release\netstandard2.0\ThreeNH.Data.Implement.AssemblyInfo.cs
+D:\TNH Git\CS820N\ThreeNH.Data.Implement\obj\Release\netstandard2.0\ThreeNH.Data.Implement.csproj.CoreCompileInputs.cache
+D:\TNH Git\CS820N\ThreeNH.Data.Implement\obj\Release\netstandard2.0\ThreeNH.Data.Implement.csproj.CopyComplete
+D:\TNH Git\CS820N\ThreeNH.Data.Implement\obj\Release\netstandard2.0\ThreeNH.Data.Implement.dll
+D:\TNH Git\CS820N\ThreeNH.Data.Implement\obj\Release\netstandard2.0\ThreeNH.Data.Implement.pdb

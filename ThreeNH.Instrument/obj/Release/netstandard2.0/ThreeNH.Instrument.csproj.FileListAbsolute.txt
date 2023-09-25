@@ -1,0 +1,17 @@
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Instrument\bin\Release\netstandard2.0\ThreeNH.Instrument.deps.json
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Instrument\bin\Release\netstandard2.0\ThreeNH.Instrument.dll
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Instrument\bin\Release\netstandard2.0\ThreeNH.Instrument.pdb
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Instrument\bin\Release\netstandard2.0\ThreeNH.Color.dll
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Instrument\bin\Release\netstandard2.0\ThreeNH.Communication.dll
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Instrument\bin\Release\netstandard2.0\ThreeNH.dll
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Instrument\bin\Release\netstandard2.0\ThreeNH.Color.pdb
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Instrument\bin\Release\netstandard2.0\ThreeNH.Communication.pdb
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Instrument\bin\Release\netstandard2.0\ThreeNH.pdb
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Instrument\obj\Release\netstandard2.0\ThreeNH.Instrument.csproj.AssemblyReference.cache
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Instrument\obj\Release\netstandard2.0\ThreeNH.Instrument.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Instrument\obj\Release\netstandard2.0\ThreeNH.Instrument.AssemblyInfoInputs.cache
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Instrument\obj\Release\netstandard2.0\ThreeNH.Instrument.AssemblyInfo.cs
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Instrument\obj\Release\netstandard2.0\ThreeNH.Instrument.csproj.CoreCompileInputs.cache
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Instrument\obj\Release\netstandard2.0\ThreeNH.Instrument.csproj.CopyComplete
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Instrument\obj\Release\netstandard2.0\ThreeNH.Instrument.dll
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH.Instrument\obj\Release\netstandard2.0\ThreeNH.Instrument.pdb

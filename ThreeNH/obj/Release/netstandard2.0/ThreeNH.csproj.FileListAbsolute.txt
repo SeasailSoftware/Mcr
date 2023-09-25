@@ -1,0 +1,48 @@
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH\bin\Release\netstandard2.0\ThreeNH.deps.json
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH\bin\Release\netstandard2.0\ThreeNH.dll
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH\bin\Release\netstandard2.0\ThreeNH.pdb
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH\obj\Release\netstandard2.0\ThreeNH.csproj.AssemblyReference.cache
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH\obj\Release\netstandard2.0\ThreeNH.Properties.Resources.resources
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH\obj\Release\netstandard2.0\ThreeNH.csproj.GenerateResource.cache
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH\obj\Release\netstandard2.0\ThreeNH.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH\obj\Release\netstandard2.0\ThreeNH.AssemblyInfoInputs.cache
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH\obj\Release\netstandard2.0\ThreeNH.AssemblyInfo.cs
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH\obj\Release\netstandard2.0\ThreeNH.csproj.CoreCompileInputs.cache
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH\obj\Release\netstandard2.0\ThreeNH.dll
+D:\Tencent Clound Platform\CS820N - 副本\ThreeNH\obj\Release\netstandard2.0\ThreeNH.pdb
+D:\Tencent Clound Platform\CS820N\ThreeNH\bin\Release\netstandard2.0\ThreeNH.deps.json
+D:\Tencent Clound Platform\CS820N\ThreeNH\bin\Release\netstandard2.0\ThreeNH.dll
+D:\Tencent Clound Platform\CS820N\ThreeNH\bin\Release\netstandard2.0\ThreeNH.pdb
+D:\Tencent Clound Platform\CS820N\ThreeNH\obj\Release\netstandard2.0\ThreeNH.csproj.AssemblyReference.cache
+D:\Tencent Clound Platform\CS820N\ThreeNH\obj\Release\netstandard2.0\ThreeNH.Properties.Resources.resources
+D:\Tencent Clound Platform\CS820N\ThreeNH\obj\Release\netstandard2.0\ThreeNH.csproj.GenerateResource.cache
+D:\Tencent Clound Platform\CS820N\ThreeNH\obj\Release\netstandard2.0\ThreeNH.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tencent Clound Platform\CS820N\ThreeNH\obj\Release\netstandard2.0\ThreeNH.AssemblyInfoInputs.cache
+D:\Tencent Clound Platform\CS820N\ThreeNH\obj\Release\netstandard2.0\ThreeNH.AssemblyInfo.cs
+D:\Tencent Clound Platform\CS820N\ThreeNH\obj\Release\netstandard2.0\ThreeNH.csproj.CoreCompileInputs.cache
+D:\Tencent Clound Platform\CS820N\ThreeNH\obj\Release\netstandard2.0\ThreeNH.dll
+D:\Tencent Clound Platform\CS820N\ThreeNH\obj\Release\netstandard2.0\ThreeNH.pdb
+D:\TNH Git\CS820N\ThreeNH\bin\Release\netstandard2.0\ThreeNH.deps.json
+D:\TNH Git\CS820N\ThreeNH\bin\Release\netstandard2.0\ThreeNH.dll
+D:\TNH Git\CS820N\ThreeNH\bin\Release\netstandard2.0\ThreeNH.pdb
+D:\TNH Git\CS820N\ThreeNH\obj\Release\netstandard2.0\ThreeNH.csproj.AssemblyReference.cache
+D:\TNH Git\CS820N\ThreeNH\obj\Release\netstandard2.0\ThreeNH.Properties.Resources.resources
+D:\TNH Git\CS820N\ThreeNH\obj\Release\netstandard2.0\ThreeNH.csproj.GenerateResource.cache
+D:\TNH Git\CS820N\ThreeNH\obj\Release\netstandard2.0\ThreeNH.GeneratedMSBuildEditorConfig.editorconfig
+D:\TNH Git\CS820N\ThreeNH\obj\Release\netstandard2.0\ThreeNH.AssemblyInfoInputs.cache
+D:\TNH Git\CS820N\ThreeNH\obj\Release\netstandard2.0\ThreeNH.AssemblyInfo.cs
+D:\TNH Git\CS820N\ThreeNH\obj\Release\netstandard2.0\ThreeNH.csproj.CoreCompileInputs.cache
+D:\TNH Git\CS820N\ThreeNH\obj\Release\netstandard2.0\ThreeNH.dll
+D:\TNH Git\CS820N\ThreeNH\obj\Release\netstandard2.0\ThreeNH.pdb
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH\bin\Release\netstandard2.0\ThreeNH.deps.json
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH\bin\Release\netstandard2.0\ThreeNH.dll
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH\bin\Release\netstandard2.0\ThreeNH.pdb
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH\obj\Release\netstandard2.0\ThreeNH.csproj.AssemblyReference.cache
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH\obj\Release\netstandard2.0\ThreeNH.Properties.Resources.resources
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH\obj\Release\netstandard2.0\ThreeNH.csproj.GenerateResource.cache
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH\obj\Release\netstandard2.0\ThreeNH.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH\obj\Release\netstandard2.0\ThreeNH.AssemblyInfoInputs.cache
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH\obj\Release\netstandard2.0\ThreeNH.AssemblyInfo.cs
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH\obj\Release\netstandard2.0\ThreeNH.csproj.CoreCompileInputs.cache
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH\obj\Release\netstandard2.0\ThreeNH.dll
+D:\Projects\Micro ColorReader\ReagentStripTest\ThreeNH\obj\Release\netstandard2.0\ThreeNH.pdb
